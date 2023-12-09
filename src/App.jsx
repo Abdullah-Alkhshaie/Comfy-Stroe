@@ -16,7 +16,7 @@ function App() {
       <Header />
       <Navbar />
 
-      <Routes basename="/Comfy-Stroe">
+      <Routes basename="/">
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/signin" element={<SignIn />} />
