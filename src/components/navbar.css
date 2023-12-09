@@ -1,0 +1,5 @@
+/* Add this to your CSS or styling module */
+.active-link {
+  background-color: #4299e1; /* Change this to the color you want for active links */
+  color: #ffffff; /* Change this to the text color you want for active links */
+}
